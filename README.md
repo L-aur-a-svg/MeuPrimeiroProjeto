@@ -1,3 +1,5 @@
-# MeuPrimeiroProjeto
+# SegundoPrimeiroProjeto
 
-Jesus é bom, ele é amor, vive para sempre. Sou cristã
+Jesus é bom. Sou cristã, meu nome é Laura, amor a Deus.
+
+Atividade de SW
